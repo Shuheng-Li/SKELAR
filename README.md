@@ -13,7 +13,7 @@ python get_masd_embedding.py
 ```
 
 ## Downstream Code
-With pretrained label weights, run `python main.py` to use the label representation for downstream HAR.
+With pretrained label weights, at each task folder in the downstream folder run `python main.py` to use the label representation for downstream HAR.
 
 ## In Construction
 More detailed instruction and scripts will be uploaded to the repo soon!
